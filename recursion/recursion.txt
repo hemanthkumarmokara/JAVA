@@ -1,0 +1,17 @@
+here while recursive function is executing..
+>> the methods will go into stack(first executed method will enter first in stack). 
+after the completion of it's execution it will come out of stack
+>> 
+>> 
+
+how to solve a problem using recursion
+1. identify if you can breakdown the problem into small problems
+2. draw the reccurence relation using if it is needed..
+3. draw the recursive tree
+4. about the tree
+  > see the flow of function, how they are getting in stack 
+  > identify and focus on left and right tree calls
+  > draw the tree pointer again and again using pen and paper.
+  > use the debugger to see the flow of program
+5. see how the values and what type of values are returned at each step
+   see where two function calls will come out of where it called previously
